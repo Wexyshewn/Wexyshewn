@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler instagram : pusha__23 Discord Nick : ✰ ' Pusha#7026 Discord Sunucum : discord.gg/marino / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
 
 
-# Pusha Guard Bots
+# Wexy Guard Bots
 
 - Sekme Guard Buttonlu Ve Hersey Vardir
 - Guard Kanal/Katagori/Rol/Emoji/Webhook/Url/Sagtık İsim Değisme/Sag Tık Kick/Sag Tık Ban/Ve Sunucu İlgili Bir Cok Sey Vardır/
