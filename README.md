@@ -151,36 +151,14 @@ const oyunlar = {
 
 #Arkadaslar Size Canvaslı Ve Normel Ekip-all Komutunu Birakiyorum ekran Fotorafi Asagada Baka Bilirsiniz
 
-![image](https://cdn.discordapp.com/attachments/932379663408435270/935148400112963674/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932379663408435270/935160295192678430/unknown.png)
-
-
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
-
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377740940836895/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932377844305264680/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378376822472704/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378511161835530/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378752246235166/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
+RESİMLER EKLENECEK
 
 
 
 # Wexy SEKME GUARD
-![image](https://cdn.discordapp.com/attachments/936186092040880188/936186097996791818/unknown.png)
-![image](https://cdn.discordapp.com/attachments/936186092040880188/936186686201823262/unknown.png)
 
 
-# Hi there , I'm Wexy [DİSCORD](discord.gg/)
+# Hi there , I'm Wexy [DİSCORD](https://discord.gg/AMar6JjB/)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928673220985520128?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928673220985520128)
 
