@@ -1,4 +1,4 @@
-# Hi there , I'm Wexy 
+# [Hi there , I'm Wexy](https://discord.com/users/928673220985520128) 
 
 <!--
 **Wexyshewn/Wexyshewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 # Bilgilendirme 
 
 - Botların Hepsi Sağdan Soldan Alınmıs Ve Bizat Benim Ve Kendi Tarafimdan Editlenip Gelistirilip Size Sunuyorum Bütün Botlarımı
-- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler : ✰ ' [Wéxy Shewn ? Hâzretleri ✩ ♱ ✭ †#1983](https://discord.com/users/928673220985520128) [Discord Sunucum](discord.gg/ananınamaındaşakayakında) / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
-
-
-# Hi there , I'm Wexy [DİSCORD](https://discord.gg/AMar6JjB/)
+- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler : ✰ ' [Wéxy Shewn ? Hâzretleri ✩ ♱ ✭ †#1983](https://discord.com/users/928673220985520128) [Discord Sunucum](https://discord.gg/AMar6JjB) / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
+- 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928673220985520128?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/928673220985520128)
 
